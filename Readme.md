@@ -1,4 +1,3 @@
 # JsLoader
 
-文章：[免杀shellcode并绕过杀毒添加自启动](https://www.wtfsec.org/%e5%85%8d%e6%9d%80shellcode%e5%b9%b6%e7%bb%95%e8%bf%87%e6%9d%80%e6%af%92%e6%b7%bb%e5%8a%a0%e8%87%aa%e5%90%af%e5%8a%a8/)
-
+文章：[免杀shellcode并绕过杀毒添加自启动](https://wtfsec.org/posts/%E5%85%8D%E6%9D%80shellcode%E5%B9%B6%E7%BB%95%E8%BF%87%E6%9D%80%E6%AF%92%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%90%AF%E5%8A%A8/)
